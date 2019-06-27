@@ -1,3 +1,3 @@
 # Vocabulary Booster 
-Learn most frequent 6000 words in many languages
+6,000 most frequently used words in many languages
 
