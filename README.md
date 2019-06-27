@@ -1,4 +1,3 @@
-# notifications-tutorial
-Sample app for notifications in Android
+# Vocabulary Booster 
+Learn most frequent 6000 words in many languages
 
-[Guide to Notifications in Android](http://thetechnocafe.com/guide-to-notifications-in-android/).
